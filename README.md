@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis (SQL Project)
+#  Customer Churn Analysis (SQL Project)
 
 ## Problem Statement
 Why are customers leaving and how can churn be reduced?
